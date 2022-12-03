@@ -1,0 +1,10 @@
+.cnLayoutRoot {
+   min-height: 100vh;
+   background-color: #fafafa;
+}
+
+.cnLayoutBady {
+   max-width: 1080px;
+   margin: auto;
+
+}
